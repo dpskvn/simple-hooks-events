@@ -1,0 +1,27 @@
+{
+  "name": "simple-hooks-events",
+  "version": "0.0.1",
+  "description": "Simple library for hooks.events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dpskvn/simple-hooks-events.git"
+  },
+  "keywords": [
+    "hooks",
+    "hooks.events",
+    "notifications"
+  ],
+  "author": "Dino Paskvan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dpskvn/simple-hooks-events/issues"
+  },
+  "homepage": "https://github.com/dpskvn/simple-hooks-events",
+  "dependencies": {
+    "request": "^2.49.0"
+  }
+}
